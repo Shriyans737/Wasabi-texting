@@ -1,7 +1,7 @@
 # Wasabi
 
 Wasabi is an open-source messaging app built with Flutter and Firebase. It focuses on fast, simple chat, one-on-one or in groups, with a clean, Signal-inspired design. It runs on Android, iOS and the web (installable as a PWA), and it is built to run on free tiers only.
-
+https://wasabi-texting.web.app
 ## Features
 
 - **Real-time one-on-one chat** with instant delivery on both devices.
